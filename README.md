@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @zsdfbb
-- 👀 I’m I am interested in os, various tools.
-- 🌱 I’m currently learning rust.
+- 👀 I’m interested in OS，Security, and AI.
+- 🌱 I’m currently learning AI and rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
